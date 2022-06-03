@@ -1,0 +1,60 @@
+.Card{
+  border : 30px;
+  margin-left: 20px;
+  float: left;
+  width: 300px;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+.des{
+  margin-left: 7%;
+}
+h5{
+  color :rgb(136, 195, 223) ;
+}
+p{
+  color: slategrey;
+}
+.iframe{
+  background-color: rgb(238, 234, 226);
+  width: 900px;
+  margin-left: 15%;
+  margin-top: 50px;
+}
+iframe{
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.selectAdd{
+width: 300px;
+height: 40px;
+float: inline-start;
+border-color: transparent;
+margin-right: 50px;
+margin-top:10px;
+color: grey;
+background-color: transparent;
+}
+.selectAdd:focus{
+  border-color: rgb(136, 195, 223);
+  border: 0px;
+}
+
+.Add{
+  width: 800px;
+  margin-left: 20%;
+  margin-top: 20px;
+  height: 150px;
+}
+.btnAdd{
+  width: 100px;
+}
+.img{
+  height : 300px;
+  width : 250px;
+}
+img{
+  height: 20px;
+  width: 20px;
+}
